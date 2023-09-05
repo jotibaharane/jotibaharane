@@ -9,13 +9,13 @@
 
 
 
-- 📫 How to reach me **vikeshvhinge@gmail.com**
+- 📫 How to reach me **jotibaharane1906@gmail.com**
 
-- 📄 Know about my experiences **https://vikeshhinge.github.io/**
+- 📄 Know about my experiences **https://jotibaharane1906.github.io/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/vikesh-hinge-b02828236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikesh hinge" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jotiba-harane-06237a133/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jotiba harane" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
