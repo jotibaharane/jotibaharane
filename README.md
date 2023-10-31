@@ -1,28 +1,48 @@
-![logo](https://github.com/VikeshHinge/VikeshHinge/blob/main/54b6c068097599.5b50bca476b9b.gif)
+<!-- Title -->
+<h1 align="center">Hi there, I'm Jotiba Harane! 👋</h1>
 
-<h1 align="center">Hi 👋, I'm Jotiba Harane</h1>
-<h3 align="center">A passionate full stack web developer from India. I’m an inquisitive and highly motivated Full Stack web developer with specialization in MERN                             stack, worked through 1000+ hours of bootcamp structure learning. working in progress..💻</h3>
-
-<img align="right" alt="coding" width="400" src='https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif'>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikeshhinge&label=Profile%20views&color=0e75b6&style=flat" alt="vikeshhinge" /> </p>
-
-
-
-- 📫 How to reach me **jotibaharane1906@gmail.com**
-
-- 📄 Know about my experiences **https://jotibaharane1906.github.io/**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/jotiba-harane-06237a133/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jotiba harane" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jotibaharane1906/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jotiba%20Harane-blue?style=flat-square&logo=linkedin">
+  </a>
+  <a href="https://twitter.com/YourTwitterHandle">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%40YourTwitterHandle-blue?style=flat-square&logo=twitter">
+  </a>
+  <a href="mailto:jotibaharane1906@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-jotibaharane1906%40gmail.com-red?style=flat-square&logo=gmail">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://www.orafox.com/wp-content/uploads/2019/01/expressjs.png" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-<br/><br/>
-<div>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikeshhinge&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="vikeshhinge" /></p>
+## About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikeshhinge&show_icons=true&locale=en&theme=highcontrast" alt="vikeshhinge" /></p>
-</div>
+I'm a frontend developer with a passion for creating web experiences that are not only visually appealing but also highly functional. My expertise includes React, TypeScript, Node.js, and Next.js, and I'm constantly pushing the boundaries of what can be achieved on the web.
+
+## What I Do
+
+- 🚀 Crafting elegant and performant web applications with React and Next.js.
+- 🌐 Turning design into reality using HTML, CSS, and JavaScript.
+- 💼 Collaborating on a diverse range of projects, from e-commerce platforms to personal blogs.
+- 📚 Staying up-to-date with the latest industry trends and best practices to deliver top-notch results.
+- 👨‍💻 Working well within a team to deliver outstanding solutions.
+
+## My Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jotibaharane1906&show_icons=true&count_private=true" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotibaharane1906&layout=compact" alt="Top Languages">
+</p>
+
+## Latest Projects
+
+Here are some of my recent projects:
+
+- [Project 1](https://github.com/jotibaharane1906/project1): Brief project description.
+- [Project 2](https://github.com/jotibaharane1906/project2): Brief project description.
+- [Project 3](https://github.com/jotibaharane1906/project3): Brief project description.
+
+## Let's Connect
+
+If you're interested in collaborating or just want to discuss web development, feel free to reach out through any of the links above. Let's create exceptional web experiences together! 😄
