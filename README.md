@@ -25,23 +25,7 @@ I'm a frontend developer with a passion for creating web experiences that are no
 - 📚 Staying up-to-date with the latest industry trends and best practices to deliver top-notch results.
 - 👨‍💻 Working well within a team to deliver outstanding solutions.
 
-## My Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jotibaharane1906&show_icons=true&count_private=true" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotibaharane1906&layout=compact" alt="Top Languages">
-</p>
-
-## Latest Projects
-
-Here are some of my recent projects:
-
-- [Project 1](https://github.com/jotibaharane1906/project1): Brief project description.
-- [Project 2](https://github.com/jotibaharane1906/project2): Brief project description.
-- [Project 3](https://github.com/jotibaharane1906/project3): Brief project description.
 
 ## Let's Connect
 
